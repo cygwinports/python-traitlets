@@ -2,7 +2,7 @@ inherit python-wheel
 
 NAME="python-traitlets"
 VERSION=4.3.2
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Config system for IPython"
 DESCRIPTION="A configuration system for Python applications."
